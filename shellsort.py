@@ -1,7 +1,7 @@
 def shellSort(arr):
     
     n = len(arr)
-    gap = n // 2 
+    gap = n // 2 # original sshell sequence.
 
     
     while gap > 0:
