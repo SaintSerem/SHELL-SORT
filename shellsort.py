@@ -1,7 +1,7 @@
 def shellSort(arr):
     # Start with a big gap, then reduce the gap
     n = len(arr)
-    gap = n // 2  # Use integer division instead of float division
+    gap = n // 2 
 
     # Do a gapped insertion sort for this gap size.
     # The first gap elements a[0..gap-1] are already in gapped
