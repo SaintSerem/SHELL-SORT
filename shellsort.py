@@ -20,7 +20,7 @@ def shellSort(arr):
         gap //= 2  
 
 
-# test code
+# test array
 arr = [35, 33, 42, 10,14,19,27,44]
 
 n = len(arr)
