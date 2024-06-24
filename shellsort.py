@@ -17,7 +17,7 @@ def shellSort(arr):
 
 
             arr[j] = temp
-        gap //= 2  # 
+        gap //= 2  
 
 
 # test code
